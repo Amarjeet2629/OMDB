@@ -1,1 +1,3 @@
 # OMDB
+
+Run `npm start`
